@@ -1,0 +1,122 @@
+2018-04-29 19:05:28 ERROR (Thread-6) [homeassistant.components.notify.ios] The notify.ios platform was loaded but no devices exist! Please check the documentation at https://home-assistant.io/ecosystem/ios/notifications/ for more information
+2018-04-29 19:05:38 WARNING (Thread-2) [netdisco.ssdp] Error fetching description at http://192.168.0.18:8200/rootDesc.xml
+2018-04-29 19:05:55 WARNING (MainThread) [homeassistant.components.media_player] Setup of platform roku is taking over 10 seconds.
+2018-04-29 19:06:49 WARNING (MainThread) [homeassistant.helpers.entity] Update of media_player.roku_1gs43v045878 is taking over 10 seconds
+2018-04-29 19:06:50 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:08:39 WARNING (MainThread) [homeassistant.helpers.entity] Update of media_player.roku_1gs43v045878 is taking over 10 seconds
+2018-04-29 19:08:40 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:09:12 WARNING (MainThread) [homeassistant.helpers.entity] Update of media_player.roku_1gs43v045878 is taking over 10 seconds
+2018-04-29 19:09:13 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:09:34 WARNING (MainThread) [homeassistant.helpers.entity] Update of media_player.roku_1gs43v045878 is taking over 10 seconds
+2018-04-29 19:10:07 WARNING (MainThread) [homeassistant.helpers.entity] Update of media_player.roku_1gs43v045878 is taking over 10 seconds
+2018-04-29 19:10:40 WARNING (MainThread) [homeassistant.helpers.entity] Update of media_player.roku_1gs43v045878 is taking over 10 seconds
+2018-04-29 19:11:02 WARNING (MainThread) [homeassistant.helpers.entity] Update of media_player.roku_1gs43v045878 is taking over 10 seconds
+2018-04-29 19:11:03 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:11:57 WARNING (MainThread) [homeassistant.helpers.entity] Update of media_player.roku_1gs43v045878 is taking over 10 seconds
+2018-04-29 19:11:58 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:12:52 WARNING (MainThread) [homeassistant.helpers.entity] Update of media_player.roku_1gs43v045878 is taking over 10 seconds
+2018-04-29 19:13:47 WARNING (MainThread) [homeassistant.helpers.entity] Update of media_player.roku_1gs43v045878 is taking over 10 seconds
+2018-04-29 19:13:48 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:15:15 WARNING (MainThread) [homeassistant.helpers.entity] Update of media_player.roku_1gs43v045878 is taking over 10 seconds
+2018-04-29 19:16:10 WARNING (MainThread) [homeassistant.helpers.entity] Update of media_player.roku_1gs43v045878 is taking over 10 seconds
+2018-04-29 19:16:11 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:16:43 WARNING (MainThread) [homeassistant.helpers.entity] Update of media_player.roku_1gs43v045878 is taking over 10 seconds
+2018-04-29 19:16:44 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:16:55 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:17:06 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:17:17 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:17:28 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:17:39 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:17:50 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:18:01 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:18:12 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:18:23 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:18:34 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:18:45 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:18:56 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:19:07 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:19:18 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:19:29 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:19:40 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:19:51 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:20:02 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:20:13 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:20:24 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:20:35 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:20:46 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:20:57 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:21:08 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:21:19 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:21:30 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:21:35 WARNING (MainThread) [homeassistant.components.media_player.apple_tv] A <class 'concurrent.futures._base.TimeoutError'> error occurred: 
+2018-04-29 19:21:41 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:21:49 WARNING (MainThread) [homeassistant.components.media_player.apple_tv] A <class 'aiohttp.client_exceptions.ClientConnectorError'> error occurred: Cannot connect to host 192.168.0.27:3689 ssl:False [Connect call failed ('192.168.0.27', 3689)]
+2018-04-29 19:21:52 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:22:02 WARNING (MainThread) [homeassistant.components.media_player.apple_tv] A <class 'aiohttp.client_exceptions.ClientConnectorError'> error occurred: Cannot connect to host 192.168.0.27:3689 ssl:False [Connect call failed ('192.168.0.27', 3689)]
+2018-04-29 19:22:02 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:22:13 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:22:24 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:22:35 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:22:46 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:22:57 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:23:08 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:23:19 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:23:30 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:23:41 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:23:52 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:24:03 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:24:14 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:24:25 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:24:36 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:24:47 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:24:58 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:25:09 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:25:20 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:25:31 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:25:42 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:25:53 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:26:04 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:26:15 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:26:25 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:26:36 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:26:47 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:26:58 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:27:09 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:27:20 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:27:31 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:27:42 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:27:53 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:28:04 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:28:15 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:28:26 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:28:37 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:28:48 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:28:59 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:29:10 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:29:21 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:29:32 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:29:43 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:29:54 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:30:05 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:30:16 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:30:27 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:30:38 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:30:49 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:31:00 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:31:11 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:31:22 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:31:33 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:31:44 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:31:55 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:32:06 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:32:17 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:32:28 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:32:39 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:32:50 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:33:01 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:33:12 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:33:23 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:33:34 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:33:45 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
+2018-04-29 19:35:45 WARNING (MainThread) [homeassistant.helpers.entity] Update of media_player.roku_1gs43v045878 is taking over 10 seconds
+2018-04-29 19:35:46 WARNING (MainThread) [homeassistant.components.media_player] Updating roku media_player took longer than the scheduled update interval 0:00:10
